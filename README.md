@@ -1,4 +1,4 @@
-### Hi there, I'm Hasan [website] 👋
+### Hi there, I'm Hasan👋
 
 
 ## I'm a Software Developer and Traveler
