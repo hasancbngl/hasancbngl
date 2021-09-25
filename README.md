@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Anything.
 - 📫 How to reach me: hasanncobanogllu@gmail.com
-- 🥅 2021 Goals: to Start Contributing to Open Source projects
 
 ---
 📗 Latest Blog Articles
@@ -26,4 +25,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancbngl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasancbngl&show_icons=true&theme=vue)
+[![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasancbngl&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
