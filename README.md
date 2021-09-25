@@ -23,3 +23,6 @@
 ▶️ [...more blog articles](https://hasancobanoglu.tech)
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancbngl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
