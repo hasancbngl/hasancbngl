@@ -13,7 +13,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Learning To Learn](https://hasancobanoglu.tech/learning-to-learn)
-- [Android Custom Side Menu 2-Navigation Drawer Alternative -> using Fragment](https://hasancobanoglu.tech/android-custom-side-menu-2-navigation-drawer-alternative-greater-using-fragment)
+- [Android Custom Side Menu 2-Navigation Drawer Alternative -&gt; using Fragment](https://hasancobanoglu.tech/android-custom-side-menu-2-navigation-drawer-alternative-greater-using-fragment)
 - [Android SideMenu 1- Navigation Drawer](https://hasancobanoglu.tech/android-sidemenu-1-navigation-drawer)
 - [Android-Simple Login Screen](https://hasancobanoglu.tech/android-simple-login-screen)
 - [Creating RESTful CRUD API with Spring Boot, PostgreSQL, JPA](https://hasancobanoglu.tech/creating-restful-crud-api-with-spring-boot-postgresql-jpa)
