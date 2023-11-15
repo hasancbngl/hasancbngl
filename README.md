@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Testing, best practices on Android
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Anything.
-- 📫 How to reach me: hasan.cobanoglu@outlook.com.tr
+- 📫 How to reach me: hasanncobanogllu@gmail.com
 
 ---
 📗 Latest Blog Articles
